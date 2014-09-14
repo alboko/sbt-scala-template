@@ -1,0 +1,22 @@
+#--- sbt
+target/
+tmp/
+
+#--- IntelliJ 
+.idea
+.idea_modules
+
+#--- Eclipse
+.settings
+.target
+bin
+.cache
+.classpath
+.project
+.worksheet
+
+#--- Sublime Text
+*.sublime-*
+
+#--- MacOS
+.DS_Store
